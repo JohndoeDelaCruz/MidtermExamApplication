@@ -17,7 +17,7 @@ class ProductController extends Controller
                 'genre' => 'Shonen',
                 'description' => 'Follow Monkey D. Luffy and his pirate crew in their search for the greatest treasure ever left by the legendary Pirate, Gold Roger.',
                 'release_year' => 1997,
-                'image' => 'one_piece.jpg'
+                'image' => 'images/OIP.jpg'
             ],
             [
                 'id' => 2,
@@ -27,7 +27,7 @@ class ProductController extends Controller
                 'genre' => 'Dark Fantasy',
                 'description' => 'In a world where humanity lives inside cities surrounded by enormous walls due to the Titans, gigantic humanoid creatures who devour humans seemingly without reason.',
                 'release_year' => 2009,
-                'image' => 'aot.jpg'
+                'image' => 'images/AOT.jpg'
             ],
             [
                 'id' => 3,
@@ -37,7 +37,7 @@ class ProductController extends Controller
                 'genre' => 'Dark Fantasy',
                 'description' => 'Tanjiro Kamado sets out to become a demon slayer after his family is slaughtered and his younger sister turned into a demon.',
                 'release_year' => 2016,
-                'image' => 'demon_slayer.jpg'
+                'image' => 'images/Demon_Slayer.jpg'
             ],
             [
                 'id' => 4,
@@ -47,7 +47,7 @@ class ProductController extends Controller
                 'genre' => 'Superhero',
                 'description' => 'In a world where 80% of the population has superpowers, a boy born without them aims to become the greatest hero.',
                 'release_year' => 2014,
-                'image' => 'mha.jpg'
+                'image' => 'images/MHA.jpg'
             ],
             [
                 'id' => 5,
@@ -57,7 +57,7 @@ class ProductController extends Controller
                 'genre' => 'Supernatural',
                 'description' => 'Yuji Itadori joins a secret organization of Jujutsu Sorcerers to eliminate a powerful Curse that he has become host to.',
                 'release_year' => 2018,
-                'image' => 'jjk.jpg'
+                'image' => 'images/JJK.jpg'
             ]
         ];
 
